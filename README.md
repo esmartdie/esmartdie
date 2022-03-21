@@ -8,12 +8,15 @@ I'm also passionate about Python programming and how to become a Data Engineerin
 <img width="75%" src="https://user-images.githubusercontent.com/95239524/150692798-a3f9263d-d0ca-4dc7-89c9-cdd7a047e6a8.png">
 
 ##  Check my personal projects 💻:
-<br>
+
+> *Click on the following image*  
+
 <p align="left">
    <a href="https://github.com/esmartdie/PowerBIProjects" target="blank">
     <img align="left" src="https://github.com/esmartdie/Multimedia/blob/main/IMAGES/MultimediaReadme/PowerBI-F2C811.svg"  height="30px" width="120px" />
   </a>
 </p>
+ <br>
  <br>
  
 ##  What I´m focusing on 🤓:
