@@ -51,8 +51,8 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 
 <p align="center">
 <a href="https://github.com/esmartdie">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esmartdie&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esmartdie&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esmartdie&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esmartdie&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
  <br>
