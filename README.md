@@ -45,6 +45,16 @@ I'm also passionate about Python programming and how to become a Data Engineerin
 ## Test:
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](https://github.com/ironhack-labs/lab-java-sql/pull/4) in [ironhack-labs/lab-java-sql](https://github.com/ironhack-labs/lab-java-sql)
+2. 🎉 Merged PR [#3](https://github.com/evagapi/homework-java-ironschool/pull/3) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+3. 🎉 Merged PR [#2](https://github.com/evagapi/homework-java-ironschool/pull/2) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+4. 🎉 Merged PR [#1](https://github.com/evagapi/homework-java-ironschool/pull/1) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+5. 💪 Opened PR [#21](https://github.com/celularfreak/homework-java-ironbattle/pull/21) in [celularfreak/homework-java-ironbattle](https://github.com/celularfreak/homework-java-ironbattle)
+6. 💪 Opened PR [#18](https://github.com/celularfreak/homework-java-ironbattle/pull/18) in [celularfreak/homework-java-ironbattle](https://github.com/celularfreak/homework-java-ironbattle)
+7. 💪 Opened PR [#13](https://github.com/celularfreak/homework-java-ironbattle/pull/13) in [celularfreak/homework-java-ironbattle](https://github.com/celularfreak/homework-java-ironbattle)
+8. ❌ Closed PR [#19](https://github.com/ironhack-labs/homework-java-ironbattle/pull/19) in [ironhack-labs/homework-java-ironbattle](https://github.com/ironhack-labs/homework-java-ironbattle)
+9. 💪 Opened PR [#19](https://github.com/ironhack-labs/homework-java-ironbattle/pull/19) in [ironhack-labs/homework-java-ironbattle](https://github.com/ironhack-labs/homework-java-ironbattle)
+10. 🎉 Merged PR [#12](https://github.com/celularfreak/homework-java-ironbattle/pull/12) in [celularfreak/homework-java-ironbattle](https://github.com/celularfreak/homework-java-ironbattle)
 <!--END_SECTION:activity-->
 
 <!--
