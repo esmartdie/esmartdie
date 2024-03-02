@@ -1,68 +1,64 @@
-# Hello World!! 👋👋
-
-Hi, I’m Diego Martins, a passionate self-taught Developer and a Business Intelligence/Data Analyst from Argentina.
-I have a University degree in business and accounting on the University of Buenos Aires.
-I'm also passionate about Python programming and how to become a Data Engineering.
+# Hello World 👋👋 , I'm Diego !!! 
 
 
-<img width="75%" src="https://user-images.githubusercontent.com/95239524/150692798-a3f9263d-d0ca-4dc7-89c9-cdd7a047e6a8.png">
+<p align="center">
+  <img src="https://github.com/esmartdie/Multimedia/blob/main/IMAGES/MultimediaReadme/HelloVisitors.gif"  height="150px" width="300px" />
+</p>
 
-##  Check my personal projects 💻:
+</br>
 
-> *Click on the following image*  
+![Views](https://github-views.deno.dev/api/badge/esmartdie?label=Profile+visitors&style=classic&labelColor=orange)
+
+
+### 👨🏻‍💻 &nbsp;About Me:
+
+Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img src="https://cdn.icon-icons.com/icons2/107/PNG/512/argentina_18266.png" width="13"/> Quilmes-Argentina, currently living in <img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253482-flag-spain-icon_106784.png" width="13"/> Barcelona-Spain.
+
+ 💡 &nbsp;I like to explore new technologies and develop software solutions.\
+ 🎓 &nbsp;I'm currently studying Computer Science at the "Universidad de Palermo - UP" in Argentina.\
+ 🌱 &nbsp;I'm on track for learning more about Frontend, Systems Design and Cloud Architecture.\
+ 💻 &nbsp;Improving my Backend skills using Java, SpringBoot and Hibernate.\
+ ✍️  &nbsp;In my free time, used to learn Catalan, play different board games or watching a TV serie.\
+ 📄 &nbsp;Please have a look at my Linkedin profile for more details about me. 
+
+
+## ☕ Tech Tools and Skills:
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,java,spring,py,cs,git,github,idea,mongodb,mysql,postgres,docker,postman,selenium,notion&perline=6 )](https://skillicons.dev)<br/>
+
+
+## 💻 GitHub Projects Index:
+
+> *Click on the following images*  
 
 <p align="left">
    <a href="https://github.com/esmartdie/PowerBIProjects" target="blank">
-    <img align="left" src="https://github.com/esmartdie/Multimedia/blob/main/IMAGES/MultimediaReadme/PowerBI-F2C811.svg"  height="30px" width="120px" />
+    <img align="left" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png"  height="55px" width="105px" />
   </a>
 </p>
+
+<p align="left">
+   <a href="https://github.com/esmartdie/JavaProyects" target="blank">
+    <img align="left" src="https://skillicons.dev/icons?i=java&theme=light"  height="55px" width="55px" />
+  </a>
+</p>
+
+
  <br>
  <br>
  
-##  What I´m focusing on 🤓:
+## ⚙️  GitHub Analytics:
 
-* ⚙️ I am currently getting my hands dirty on personal projects with SQL and PowerBi
-* 🧠 I am currently learning Testing, ETL/ELT Process, HTML, CSS, JS.
-* 👍🏽 Ask me about: Data Analysis, Visualization, and Business/Finance Process Analysis.
-* 💬 I am currently improving my English (B2).
-
-## Contact me 📬:
-
-<p align="left">
-   <a href="https://www.linkedin.com/in/diego-e-martins/" target="blank">
-    <img align="left" src="https://user-images.githubusercontent.com/95239524/150691683-0b108ce9-5645-4a1c-a953-44d6c3fe79d8.svg"  height="40px" width="40px" />
-  </a>
+<p align="center">
+<a href="https://github.com/esmartdie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=esmartdie&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esmartdie&layout=compact&langs_count=8&theme=gruvbox"/>
+</a>
 </p>
+ <br>
+ <br>
 
-<p>
-<a href="mailto:esmartdie@gmail.com" target="blank">
-    <img align="left" src="https://user-images.githubusercontent.com/95239524/150693155-a265d09b-4e08-40fd-b77d-81cc56446a7f.svg"  height="40px" width="40px" />
-  </a>  
-</p>
-</br>
-</br>
-
-## Test:
+## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ironhack-labs/lab-java-sql/pull/4) in [ironhack-labs/lab-java-sql](https://github.com/ironhack-labs/lab-java-sql)
-2. 🎉 Merged PR [#3](https://github.com/evagapi/homework-java-ironschool/pull/3) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-3. 🎉 Merged PR [#2](https://github.com/evagapi/homework-java-ironschool/pull/2) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-4. 🎉 Merged PR [#1](https://github.com/evagapi/homework-java-ironschool/pull/1) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-5. 💪 Opened PR [#21](https://github.com/celularfreak/homework-java-ironbattle/pull/21) in [celularfreak/homework-java-ironbattle](https://github.com/celularfreak/homework-java-ironbattle)
 <!--END_SECTION:activity-->
-
-<!--
-**esmartdie/esmartdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
