@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/esmartdie/Multimedia/blob/main/IMAGES/MultimediaReadme/HelloVisitors.gif"  height="150px" width="300px" />
+  <img src="https://github.com/esmartdie/Multimedia/blob/main/IMAGES/MultimediaReadme/HelloVisitors.gif"  height="300px" width="900px" />
 </p>
 
 </br>
