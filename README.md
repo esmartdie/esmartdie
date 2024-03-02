@@ -40,6 +40,11 @@ I'm also passionate about Python programming and how to become a Data Engineerin
   </a>  
 </p>
 
+## Test:
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **esmartdie/esmartdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
