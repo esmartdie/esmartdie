@@ -55,8 +55,6 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=esmartdie&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
- <br>
- <br>
 
 ## ⚙️  GitHub Latest Activity: 
 
