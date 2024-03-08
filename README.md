@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-2. 🗣 Commented on [#27](https://github.com/evagapi/homework-java-ironschool/pull/27#issuecomment-1984328084) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-3. ❌ Closed PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-4. 💪 Opened PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-5. 🎉 Merged PR [#22](https://github.com/evagapi/homework-java-ironschool/pull/22) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+1. 💪 Opened PR [#13](https://github.com/ironhack-labs/lab-java-intro-to-jpa/pull/13) in [ironhack-labs/lab-java-intro-to-jpa](https://github.com/ironhack-labs/lab-java-intro-to-jpa)
+2. ❌ Reopened PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+3. 🗣 Commented on [#27](https://github.com/evagapi/homework-java-ironschool/pull/27#issuecomment-1984328084) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+4. ❌ Closed PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
+5. 💪 Opened PR [#27](https://github.com/evagapi/homework-java-ironschool/pull/27) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
 <!--END_SECTION:activity-->
