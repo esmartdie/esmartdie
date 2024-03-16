@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Arian1192/homework-java-ironlibrary/pull/3) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-2. 🎉 Merged PR [#39](https://github.com/evagapi/homework-java-ironschool/pull/39) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-3. 💪 Opened PR [#36](https://github.com/evagapi/homework-java-ironschool/pull/36) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
-4. ❌ Closed PR [#8](https://github.com/ironhack-labs/homework-java-ironschool/pull/8) in [ironhack-labs/homework-java-ironschool](https://github.com/ironhack-labs/homework-java-ironschool)
-5. 💪 Opened PR [#8](https://github.com/ironhack-labs/homework-java-ironschool/pull/8) in [ironhack-labs/homework-java-ironschool](https://github.com/ironhack-labs/homework-java-ironschool)
+1. 💪 Opened PR [#6](https://github.com/Arian1192/homework-java-ironlibrary/pull/6) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+2. ❌ Closed PR [#3](https://github.com/ironhack-labs/homework-java-ironlibrary/pull/3) in [ironhack-labs/homework-java-ironlibrary](https://github.com/ironhack-labs/homework-java-ironlibrary)
+3. 💪 Opened PR [#3](https://github.com/ironhack-labs/homework-java-ironlibrary/pull/3) in [ironhack-labs/homework-java-ironlibrary](https://github.com/ironhack-labs/homework-java-ironlibrary)
+4. 🎉 Merged PR [#3](https://github.com/Arian1192/homework-java-ironlibrary/pull/3) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+5. 🎉 Merged PR [#39](https://github.com/evagapi/homework-java-ironschool/pull/39) in [evagapi/homework-java-ironschool](https://github.com/evagapi/homework-java-ironschool)
 <!--END_SECTION:activity-->
