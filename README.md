@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Arian1192/homework-java-ironlibrary/pull/18) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-2. 💪 Opened PR [#9](https://github.com/ironhack-labs/lab-java-modeling-complex-relationships/pull/9) in [ironhack-labs/lab-java-modeling-complex-relationships](https://github.com/ironhack-labs/lab-java-modeling-complex-relationships)
-3. 🎉 Merged PR [#7](https://github.com/Arian1192/homework-java-ironlibrary/pull/7) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-4. 🎉 Merged PR [#5](https://github.com/Arian1192/homework-java-ironlibrary/pull/5) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-5. 🎉 Merged PR [#4](https://github.com/Arian1192/homework-java-ironlibrary/pull/4) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+1. 🎉 Merged PR [#24](https://github.com/Arian1192/homework-java-ironlibrary/pull/24) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+2. 💪 Opened PR [#25](https://github.com/Arian1192/homework-java-ironlibrary/pull/25) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+3. 🎉 Merged PR [#18](https://github.com/Arian1192/homework-java-ironlibrary/pull/18) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+4. 💪 Opened PR [#9](https://github.com/ironhack-labs/lab-java-modeling-complex-relationships/pull/9) in [ironhack-labs/lab-java-modeling-complex-relationships](https://github.com/ironhack-labs/lab-java-modeling-complex-relationships)
+5. 🎉 Merged PR [#7](https://github.com/Arian1192/homework-java-ironlibrary/pull/7) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
 <!--END_SECTION:activity-->
