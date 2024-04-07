@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Arian1192/homework-java-ironlibrary/pull/31) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-2. 🎉 Merged PR [#30](https://github.com/Arian1192/homework-java-ironlibrary/pull/30) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-3. 💪 Opened PR [#12](https://github.com/ironhack-labs/lab-java-add-and-update/pull/12) in [ironhack-labs/lab-java-add-and-update](https://github.com/ironhack-labs/lab-java-add-and-update)
-4. 💪 Opened PR [#13](https://github.com/ironhack-labs/lab-java-intro-to-spring-boot/pull/13) in [ironhack-labs/lab-java-intro-to-spring-boot](https://github.com/ironhack-labs/lab-java-intro-to-spring-boot)
-5. ❌ Closed PR [#25](https://github.com/Arian1192/homework-java-ironlibrary/pull/25) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+1. 🎉 Merged PR [#32](https://github.com/Arian1192/homework-java-ironlibrary/pull/32) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+2. 🎉 Merged PR [#31](https://github.com/Arian1192/homework-java-ironlibrary/pull/31) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+3. 🎉 Merged PR [#30](https://github.com/Arian1192/homework-java-ironlibrary/pull/30) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+4. 💪 Opened PR [#12](https://github.com/ironhack-labs/lab-java-add-and-update/pull/12) in [ironhack-labs/lab-java-add-and-update](https://github.com/ironhack-labs/lab-java-add-and-update)
+5. 💪 Opened PR [#13](https://github.com/ironhack-labs/lab-java-intro-to-spring-boot/pull/13) in [ironhack-labs/lab-java-intro-to-spring-boot](https://github.com/ironhack-labs/lab-java-intro-to-spring-boot)
 <!--END_SECTION:activity-->
