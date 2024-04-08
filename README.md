@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/Arian1192/homework-java-ironlibrary/pull/33) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-2. 🎉 Merged PR [#32](https://github.com/Arian1192/homework-java-ironlibrary/pull/32) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-3. 🎉 Merged PR [#31](https://github.com/Arian1192/homework-java-ironlibrary/pull/31) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-4. 🎉 Merged PR [#30](https://github.com/Arian1192/homework-java-ironlibrary/pull/30) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-5. 💪 Opened PR [#12](https://github.com/ironhack-labs/lab-java-add-and-update/pull/12) in [ironhack-labs/lab-java-add-and-update](https://github.com/ironhack-labs/lab-java-add-and-update)
+1. 🎉 Merged PR [#33](https://github.com/Arian1192/homework-java-ironlibrary/pull/33) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+2. 🎉 Merged PR [#34](https://github.com/Arian1192/homework-java-ironlibrary/pull/34) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+3. 💪 Opened PR [#33](https://github.com/Arian1192/homework-java-ironlibrary/pull/33) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+4. 🎉 Merged PR [#32](https://github.com/Arian1192/homework-java-ironlibrary/pull/32) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+5. 🎉 Merged PR [#31](https://github.com/Arian1192/homework-java-ironlibrary/pull/31) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
 <!--END_SECTION:activity-->
