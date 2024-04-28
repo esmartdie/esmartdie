@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/esmartdie/EsmartCafeteria/pull/2) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-2. 🎉 Merged PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-3. 💪 Opened PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-4. 💪 Opened PR [#2](https://github.com/esmartdie/EsmartCafeteria/pull/2) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-5. 🎉 Merged PR [#1](https://github.com/esmartdie/EsmartCafeteria/pull/1) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+1. 🎉 Merged PR [#4](https://github.com/esmartdie/EsmartCafeteria/pull/4) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+2. 💪 Opened PR [#4](https://github.com/esmartdie/EsmartCafeteria/pull/4) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+3. ❌ Closed PR [#2](https://github.com/esmartdie/EsmartCafeteria/pull/2) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+4. 🎉 Merged PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+5. 💪 Opened PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
 <!--END_SECTION:activity-->
