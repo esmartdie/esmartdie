@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/esmartdie/EsmartCafeteria/pull/1) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-2. 💪 Opened PR [#1](https://github.com/esmartdie/EsmartCafeteria/pull/1) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
-3. 💪 Opened PR [#15](https://github.com/ironhack-labs/homework-java-ironlibrary/pull/15) in [ironhack-labs/homework-java-ironlibrary](https://github.com/ironhack-labs/homework-java-ironlibrary)
-4. 🎉 Merged PR [#40](https://github.com/Arian1192/homework-java-ironlibrary/pull/40) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
-5. 💪 Opened PR [#38](https://github.com/Arian1192/homework-java-ironlibrary/pull/38) in [Arian1192/homework-java-ironlibrary](https://github.com/Arian1192/homework-java-ironlibrary)
+1. ❌ Closed PR [#2](https://github.com/esmartdie/EsmartCafeteria/pull/2) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+2. 🎉 Merged PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+3. 💪 Opened PR [#3](https://github.com/esmartdie/EsmartCafeteria/pull/3) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+4. 💪 Opened PR [#2](https://github.com/esmartdie/EsmartCafeteria/pull/2) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+5. 🎉 Merged PR [#1](https://github.com/esmartdie/EsmartCafeteria/pull/1) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
 <!--END_SECTION:activity-->
