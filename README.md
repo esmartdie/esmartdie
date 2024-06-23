@@ -59,9 +59,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 ## ⚙️  GitHub Latest Activity: 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2096](https://github.com/ironhack-labs/lab-css-flexbox-slack/pull/2096) in [ironhack-labs/lab-css-flexbox-slack](https://github.com/ironhack-labs/lab-css-flexbox-slack)
-2. 💪 Opened PR [#5](https://github.com/ironhack-labs/lab-css-yumyum/pull/5) in [ironhack-labs/lab-css-yumyum](https://github.com/ironhack-labs/lab-css-yumyum)
-3. 💪 Opened PR [#3379](https://github.com/ironhack-labs/lab-css-spotify-clone/pull/3379) in [ironhack-labs/lab-css-spotify-clone](https://github.com/ironhack-labs/lab-css-spotify-clone)
-4. 💪 Opened PR [#46](https://github.com/ironhack-labs/lab-css-ironskydive-2/pull/46) in [ironhack-labs/lab-css-ironskydive-2](https://github.com/ironhack-labs/lab-css-ironskydive-2)
-5. 💪 Opened PR [#70](https://github.com/ironhack-labs/lab-html-ironskydive-1/pull/70) in [ironhack-labs/lab-html-ironskydive-1](https://github.com/ironhack-labs/lab-html-ironskydive-1)
+1. 🎉 Merged PR [#12](https://github.com/esmartdie/EsmartCafeteria/pull/12) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+2. 💪 Opened PR [#12](https://github.com/esmartdie/EsmartCafeteria/pull/12) in [esmartdie/EsmartCafeteria](https://github.com/esmartdie/EsmartCafeteria)
+3. 💪 Opened PR [#2096](https://github.com/ironhack-labs/lab-css-flexbox-slack/pull/2096) in [ironhack-labs/lab-css-flexbox-slack](https://github.com/ironhack-labs/lab-css-flexbox-slack)
+4. 💪 Opened PR [#5](https://github.com/ironhack-labs/lab-css-yumyum/pull/5) in [ironhack-labs/lab-css-yumyum](https://github.com/ironhack-labs/lab-css-yumyum)
+5. 💪 Opened PR [#3379](https://github.com/ironhack-labs/lab-css-spotify-clone/pull/3379) in [ironhack-labs/lab-css-spotify-clone](https://github.com/ironhack-labs/lab-css-spotify-clone)
 <!--END_SECTION:activity-->
