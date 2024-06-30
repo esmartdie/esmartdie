@@ -15,7 +15,6 @@
 Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img src="https://cdn.icon-icons.com/icons2/107/PNG/512/argentina_18266.png" width="13"/> Quilmes-Argentina, currently living in <img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253482-flag-spain-icon_106784.png" width="13"/> Barcelona-Spain.
 
  💡 &nbsp;I like to explore new technologies and develop software solutions.\
- 🎓 &nbsp;I'm currently studying Computer Science at the "Universidad de Palermo - UP" in Argentina.\
  🌱 &nbsp;I'm on track for learning more about Frontend, Systems Design and Cloud Architecture.\
  💻 &nbsp;Improving my Backend skills using Java, SpringBoot and Hibernate.\
  ✍️  &nbsp;In my free time, used to learn Catalan, play different board games or watching a TV serie.\
