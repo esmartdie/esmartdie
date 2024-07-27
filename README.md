@@ -42,6 +42,12 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
   </a>
 </p>
 
+<p align="left">
+   <a href="https://github.com/esmartdie/TestingProjects" target="blank">
+    <img align="left" src="https://github.com/esmartdie/esmartdie/blob/main/QA.png"  height="55px" width="55px" />
+  </a>
+</p
+
 
  <br>
  <br>
