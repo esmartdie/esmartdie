@@ -30,27 +30,20 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
 
 > *Click on the following images*  
 
-<p align="left">
-   <a href="https://github.com/esmartdie/PowerBIProjects" target="blank">
-    <img align="left" src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png"  height="55px" width="105px" />
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/esmartdie/PowerBIProjects" target="blank" style="margin-right: 20px;">
+    <img src="https://github.com/esmartdie/esmartdie/blob/main/.github/PBI.png" height="55px" width="55px" />
   </a>
-</p>
-
-<p align="left">
-   <a href="https://github.com/esmartdie/JavaProyects" target="blank">
-    <img align="left" src="https://skillicons.dev/icons?i=java&theme=light"  height="55px" width="55px" />
+  <a href="https://github.com/esmartdie/JavaProyects" target="blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=java&theme=light" height="55px" width="55px" />
   </a>
-</p>
-
-<p align="left">
-   <a href="https://github.com/esmartdie/TestingProjects" target="blank">
-    <img align="left" src="https://github.com/esmartdie/esmartdie/blob/main/QA.png"  height="55px" width="55px" />
+  <a href="https://github.com/esmartdie/TestingProjects" target="blank"  style="margin-right: 20px;">
+    <img src="https://github.com/esmartdie/esmartdie/blob/main/QA.png" height="55px" width="55px" />
   </a>
-</p
+</div>
 
-
- <br>
- <br>
+  
+<br><br><br><br>
  
 ## ⚙️  GitHub Analytics:
 
