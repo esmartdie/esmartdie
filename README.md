@@ -41,9 +41,6 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
     <img src="https://github.com/esmartdie/esmartdie/blob/main/QA.png" height="55px" width="55px" />
   </a>
 </div>
-
-  
-<br><br><br><br>
  
 ## ⚙️  GitHub Analytics:
 
