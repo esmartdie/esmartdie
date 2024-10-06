@@ -40,6 +40,9 @@ Hi, I’m Diego Martins, a Software developer and a Quality-Assurance from <img 
   <a href="https://github.com/esmartdie/TestingProjects" target="blank"  style="margin-right: 20px;">
     <img src="https://github.com/esmartdie/esmartdie/blob/main/QA.png" height="55px" width="55px" />
   </a>
+    <a href="https://github.com/esmartdie/Python-Projects-Index" target="blank" style="margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=python&theme=light" height="55px" width="55px" />
+  </a>
 </div>
  
 ## ⚙️  GitHub Analytics:
